@@ -1,6 +1,6 @@
 # WipeIt Portable - Guide Technique
 
-Ce document decrit le fonctionnement technique du mode portable (distribution et execution sans installateur) et ses implications runtime.
+![Main](./images/wipe.gif)
 
 ## 1. Definition du mode portable
 
